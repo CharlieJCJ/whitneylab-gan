@@ -6,7 +6,7 @@
 #SBATCH --account=charliechengjieji@hpc.brc.berkeley.edu
 #
 # Partition:
-#SBATCH --partition=savio2
+#SBATCH --partition=savio2_htc
 #
 # Wall clock limit:
 #SBATCH --time=00:00:30
