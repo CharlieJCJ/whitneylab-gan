@@ -3,7 +3,7 @@
 #SBATCH --job-name=test
 #
 # Account:
-#SBATCH --account=charliechengjieji@hpc.brc.berkeley.edu
+#SBATCH --account=fc_psychvis
 #
 # Partition:
 #SBATCH --partition=savio2_htc
