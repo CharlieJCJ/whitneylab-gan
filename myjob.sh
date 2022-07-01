@@ -9,7 +9,7 @@
 #SBATCH --partition=savio2_htc
 #
 # Wall clock limit:
-#SBATCH --time=00:00:30
+#SBATCH --time=01:00:00
 #
 ## Command(s) to run:
 echo "hello world"
